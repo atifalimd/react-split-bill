@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/split-bill/static/css/main.a4c28843.css",
-    "main.js": "/split-bill/static/js/main.4311e106.js",
-    "index.html": "/split-bill/index.html",
-    "main.a4c28843.css.map": "/split-bill/static/css/main.a4c28843.css.map",
-    "main.4311e106.js.map": "/split-bill/static/js/main.4311e106.js.map"
+    "main.css": "/react-split-bill/static/css/main.a4c28843.css",
+    "main.js": "/react-split-bill/static/js/main.4311e106.js",
+    "index.html": "/react-split-bill/index.html",
+    "main.a4c28843.css.map": "/react-split-bill/static/css/main.a4c28843.css.map",
+    "main.4311e106.js.map": "/react-split-bill/static/js/main.4311e106.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c28843.css",
