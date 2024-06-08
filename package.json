@@ -1,6 +1,6 @@
 {
-  "homepage": "https://atifalimd.github.io/split-bill/",
-  "name": "eat-n-split",
+  "homepage": "https://atifalimd.github.io/split-bill-react/",
+  "name": "split-bill-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
