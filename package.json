@@ -1,6 +1,6 @@
 {
-  "homepage": "https://atifalimd.github.io/split-bill-react/",
-  "name": "split-bill-react",
+  "homepage": "https://atifalimd.github.io/react-split-bill/",
+  "name": "react-split-bill",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
